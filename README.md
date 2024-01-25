@@ -162,6 +162,6 @@ Run specifics modules only and full verbosity
 
 ## Run with docker
 
-`docker build -t sitadel .`
+`docker build -t SecurEagle .`
 
 `docker run SecurEagle http://example.com`
