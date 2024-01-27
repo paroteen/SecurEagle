@@ -2,23 +2,23 @@
 # SecurEagle - Web Application Security Scanner
 
 ```bash
-            
+    █████████                                                     ██████████                    ████             
+ ███░░░░░███                                                   ░░███░░░░░█                   ░░███             
+░███    ░░░   ██████   ██████  █████ ████ ████████   ██████     ░███  █ ░   ██████    ███████ ░███   ██████    
+░░█████████  ███░░███ ███░░███░░███ ░███ ░░███░░███ ███░░███    ░██████    ░░░░░███  ███░░███ ░███  ███░░███   
+ ░░░░░░░░███░███████ ░███ ░░░  ░███ ░███  ░███ ░░░ ░███████     ░███░░█     ███████ ░███ ░███ ░███ ░███████    
+ ███    ░███░███░░░  ░███  ███ ░███ ░███  ░███     ░███░░░      ░███ ░   █ ███░░███ ░███ ░███ ░███ ░███░░░     
+░░█████████ ░░██████ ░░██████  ░░████████ █████    ░░██████     ██████████░░████████░░███████ █████░░██████    
+ ░░░░░░░░░   ░░░░░░   ░░░░░░    ░░░░░░░░ ░░░░░      ░░░░░░     ░░░░░░░░░░  ░░░░░░░░  ░░░░░███░░░░░  ░░░░░░     
+                                                                                     ███ ░███                  
+                                                                                    ░░██████                   
+                                                                                     ░░░░░░                    
 
-  █████████                                         ██████████                    ████             
- ███░░░░░███                                       ░░███░░░░░█                   ░░███             
-░███    ░░░   ██████   ██████  █████ ████ ████████  ░███  █ ░   ██████    ███████ ░███   ██████    
-░░█████████  ███░░███ ███░░███░░███ ░███ ░░███░░███ ░██████    ░░░░░███  ███░░███ ░███  ███░░███   
- ░░░░░░░░███░███████ ░███ ░░░  ░███ ░███  ░███ ░░░  ░███░░█     ███████ ░███ ░███ ░███ ░███████    
- ███    ░███░███░░░  ░███  ███ ░███ ░███  ░███      ░███ ░   █ ███░░███ ░███ ░███ ░███ ░███░░░     
-░░█████████ ░░██████ ░░██████  ░░████████ █████     ██████████░░████████░░███████ █████░░██████    
- ░░░░░░░░░   ░░░░░░   ░░░░░░    ░░░░░░░░ ░░░░░     ░░░░░░░░░░  ░░░░░░░░  ░░░░░███░░░░░  ░░░░░░     
-                                                                         ███ ░███                  
-                                                                        ░░██████                   
-                                                                         ░░░░░░                    
 ```
 
+ ![python3](https://img.shields.io/badge/python-3.6-green.svg) [![Build Status](https://travis-ci.org/shenril/Sitadel.svg?branch=master)](https://travis-ci.org/shenril/Sitadel) ![license](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)
 
-SecurEagle is basically an update for WAScan making it compatible for python >= 3.4
+Sitadel is basically an update for WAScan making it compatible for python >= 3.4
 It allows more flexibility for you to write new modules and implement new features :
 
 - Frontend framework detection
@@ -29,7 +29,7 @@ It allows more flexibility for you to write new modules and implement new featur
 
 ## Table of Contents
 
-- [SecurEagle - Web Application Security Scanner](#SecurEagle---web-application-security-scanner)
+- [Sitadel - Web Application Security Scanner](#sitadel---web-application-security-scanner)
   - [Table of Contents](#table-of-contents)
   - [Requirement Warning](#requirement-warning)
   - [Installation](#installation)
@@ -163,6 +163,6 @@ Run specifics modules only and full verbosity
 
 ## Run with docker
 
-`docker build -t SecurEagle .`
+`docker build -t sitadel .`
 
 `docker run SecurEagle http://example.com`

@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: Sitadel
+Version: 1.0.1
+Summary: Sitadel Web Application Scanner
+Home-page: https://github.com/shenril/Sitadel
+Author: Shenril
+Author-email: florent.batard@gmail.com
+License: GNU GENERAL PUBLIC LICENSE Version 3
+Keywords: sitadel,security,scanner,web,python3
+Classifier: Topic :: Security
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.5
+Provides-Extra: tests
+License-File: LICENSE
