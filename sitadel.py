@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 #
-# @name:    Sitadel - Web Application Security Scanner
-# @repo:    https://github.com/shenril/Sitadel
-# @author:  Shenril
+# @name:    SecurEagle - Web Application Security Scanner
+# @repo:    https://github.com/paroteen/SecurEagle
+# @author:  paroteen
 # @license: See the file 'LICENSE.txt'
 
 import argparse
